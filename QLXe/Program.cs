@@ -16,7 +16,7 @@ namespace QLXe
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmBackupAdnRestore());
+            Application.Run(new frmConfigSQL());
         }
     }
 }
